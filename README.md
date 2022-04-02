@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html lang='en'>
   <head>
     <meta charset='UTF-8'/>
     <title>Hello, CSS</title>
   </head>
   <body>
-    # clairecanyon.github.io
     <h1>Hello, CSS</h1>
 
     <p>CSS lets us style HTML elements. There’s also
