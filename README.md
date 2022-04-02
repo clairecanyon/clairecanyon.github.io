@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 # clairecanyon.github.io
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Links</title>
